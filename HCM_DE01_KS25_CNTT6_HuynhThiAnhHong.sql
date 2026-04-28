@@ -1,6 +1,6 @@
 CREATE DATABASE IF NOT EXISTS SalesManagement;
 USE SalesManagement;
-<<<<<<< HEAD
+
 CREATE TABLE product (
     product_id INT PRIMARY KEY AUTO_INCREMENT,
     product_name VARCHAR(255) NOT NULL,
